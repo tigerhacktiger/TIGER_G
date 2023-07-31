@@ -32,17 +32,6 @@
      ],
      "appRepositories": [
     
-    {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2023-07-28T19:00:00+0800",
-            "appName": "Snake",
-            "appVersion": "1.0.0 | 55 MB |",
-            "appImage": "https://i.postimg.cc/Kjp7QWH6/DA09-EAF1-54-B5-4-BE1-8337-AA1-BDCFB4-B7-C.jpg",
-            "appPackage": "https://up-ipa.com/uploads/up-ipa.comSalatuk-1-3-1-1690555752_284b2.ipa",
-            "appDescription": "لعبة دودة شهيرة لعبه اركيد مجانية "
-        },
-    
      {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
