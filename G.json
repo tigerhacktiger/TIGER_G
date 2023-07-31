@@ -36,28 +36,6 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
             "appUpdateTime": "2023-07-28T19:00:00+0800",
-            "appName": "Max",
-            "appVersion": "1.4 | 863 MB |",
-            "appImage": "https://i.postimg.cc/1tCyz0Tm/FFA76-C7-E-A035-4-B2-B-AE36-1-F2173-D831-BB.jpg",
-            "appPackage": "https://up-ipa.com/uploads/up-ipa.comMax-1-4-1690555686.ipa",
-            "appDescription": "لعبة محذوفة من ابستور "
-        },
-    
-    {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2023-07-28T19:00:00+0800",
-            "appName": "Chameleon",
-            "appVersion": "2.7.0 | 77 MB |",
-            "appImage": "https://i.postimg.cc/cL5KnXZg/C2-D6-FFE4-20-BE-47-D3-A92-E-28-DC7-D7-EA5-A7.jpg",
-            "appPackage": "https://up-ipa.com/uploads/up-ipa.comChameleon-2-7-0-1690556019.ipa",
-            "appDescription": "لعبة جري وقفز و تغير مع الوان لعبة اركيد "
-        },
-    
-    {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2023-07-28T19:00:00+0800",
             "appName": "Snake",
             "appVersion": "1.0.0 | 55 MB |",
             "appImage": "https://i.postimg.cc/Kjp7QWH6/DA09-EAF1-54-B5-4-BE1-8337-AA1-BDCFB4-B7-C.jpg",
